@@ -9,7 +9,7 @@ Prof. Paul R. Prucnal <br>
 
 Please feel free to update and contribute as these techniques evolve.
 
-[View Photonic Packaging Manual](https://ericcblow.github.io/PhotonicPackaging/photonicpackagingprocessandetch.pdf)
+[View Photonic Packaging Manual](https://ericcblow.github.io/PhotonicPackaging/PhotonicPackagingProcessAndEtch.pdf)
 
 Reference: Blow, Eric Charles. Microwave Photonic Interference Cancellation: RF Analysis, III-V and Silicon Integration, Development of Balanced and Hybrid Architectures. Diss. Princeton University, 2024. <br>
 
