@@ -14,5 +14,7 @@ Please feel free to update and contribute as these techniques evolve.
 Reference: Blow, Eric Charles. Microwave Photonic Interference Cancellation: RF Analysis, III-V and Silicon Integration, Development of Balanced and Hybrid Architectures. Diss. Princeton University, 2024. <br>
 
 ![Photonic Packaging Process](Figures/AppendixA/FigAppA01.png)
-
-![Wirebonding Parameters](Figures/AppendixA/FigAppA15.png)
+<br>
+<p align="center">
+  <img src="Figures/AppendixA/FigAppA15.png" alt="Description" width="400">
+</p>
